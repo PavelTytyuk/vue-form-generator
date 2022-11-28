@@ -8,3 +8,5 @@ test/e2e/reports
 stats.json
 typings/
 typings.json
+package-lock.json
+yarn.lock
